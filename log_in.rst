@@ -1,6 +1,3 @@
-=======================
-Dina Baksheeva : Log In
-=======================
 
 .. container::
    :name: page
@@ -14,10 +11,8 @@ Dina Baksheeva : Log In
          .. container::
             :name: breadcrumb-section
 
-            #. `Dina Baksheeva <index.html>`__
             #. `User Help <User-Help_65087128.html>`__
 
-         .. rubric::  Dina Baksheeva : Log In
             :name: title-heading
             :class: pagetitle
 
@@ -25,8 +20,6 @@ Dina Baksheeva : Log In
          :name: content
 
          .. container:: page-metadata
-
-            Created by Dina Baksheeva on Nov 06, 2022
 
          .. container:: wiki-content group
             :name: main-content
